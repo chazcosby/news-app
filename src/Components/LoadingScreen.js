@@ -1,7 +1,6 @@
 import React from 'react'
 import { Oval } from "react-loading-icons";
 import "../App.css";
-import { Spinner } from 'react-bootstrap'
 
 function LoadingScreen() {
   return (
