@@ -19,3 +19,4 @@ Run ```npm start``` for a development server. Navigate to http://localhost:3000/
 
 
 ![Getting Started](./pic1.png)
+![Getting Started](./pic2.png)
