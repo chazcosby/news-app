@@ -1,0 +1,120 @@
+body {
+  background-color: #000000;
+}
+.App {
+  background-color: #ddd;
+  padding: 0px;
+  margin: 0px;
+}
+
+.heroImage {
+  font-size: 10vmin;
+  text-align: center;
+  padding: 10vmin;
+  background-color: #212529;
+  width: 100%;
+  margin: 5vmin 0 5vmin 0;
+  color: white;
+}
+
+.loading {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height: 960px;
+}
+
+.loading svg {
+  height: auto;
+  width: 100%;
+  margin-top: 10vmin;
+}
+.Nav-Link {
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  font-size: large;
+  margin: 5px 0 5px 0;
+}
+
+.Nav-Link:hover {
+  color: #fff;
+  text-decoration: underline;
+  font-size: large;
+}
+
+.TopHeadlinesUS {
+  height: 100%;
+  width: 100%;
+  margin: 5vmin 0 5vmin 0;
+}
+
+.TopHeadlinesUS b,
+p,
+a {
+  font-size: 15px;
+  text-align: center;
+  margin-top: 10px;
+}
+.TopHeadlinesUS h2 {
+  font-size: 1.25rem;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.TopHeadlinesUS img {
+  width: 300px;
+  height: 200px;
+
+  object-fit: cover;
+}
+
+.TopHeadlinesUS a:link {
+  color: black;
+  text-decoration: none;
+}
+.TopHeadlinesUS a:visited {
+  color: black;
+  text-decoration: none;
+}
+.TopHeadlinesUS a:hover {
+  color: red;
+  text-decoration: none;
+}
+
+.Carousel {
+  margin: 0vmin 0 0vmin 0;
+  padding: 0 0 5vmin 0;
+  color: #000000;
+  
+}
+
+.Carousel img {
+  width: 50vmin;
+  height: 50vmin;
+  color: white;
+  filter: brightness(0.5);
+}
+.Carousel a:link {
+  color: white;
+  text-decoration: none;
+}
+
+.Carousel a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+.Carousel a:hover {
+  color: red;
+  text-decoration: none;
+}
+
+.Footer {
+  background-color: #212529;
+  opacity: 1;
+  color: #fff;
+  margin: 0px;
+  padding: 5px 0 5px 0;
+}
